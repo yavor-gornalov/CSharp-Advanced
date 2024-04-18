@@ -1,10 +1,10 @@
-﻿namespace DoublyLinkedList
+﻿namespace CustomDoublyLinkedList
 {
     internal class Test
     {
         static void Main()
         {
-            var dll = new DoublyLinkedList<int>();
+            var dll = new CustomDoublyLinkedList<int>();
 
             dll.AddFirst(1);
             dll.AddFirst(5);

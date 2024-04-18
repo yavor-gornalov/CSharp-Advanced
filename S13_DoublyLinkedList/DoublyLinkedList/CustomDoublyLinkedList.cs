@@ -1,6 +1,6 @@
-﻿namespace DoublyLinkedList
+﻿namespace CustomDoublyLinkedList
 {
-    public class DoublyLinkedList<T>
+    public class CustomDoublyLinkedList<T>
     {
         private class LinkedListNode
         {

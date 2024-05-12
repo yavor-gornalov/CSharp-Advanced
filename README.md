@@ -2,7 +2,7 @@
 This repository contains solutions to tasks related to problems solved during the study of the 'C# Advanced' module at SoftUni. The module covers advanced topics in C# programming including Stacks and Queues, Multidimensional Arrays, Sets and Dictionaries Advanced, Streams, Files and Directories, Functional Programming, Defining Classes, Implementing Linked List, Implementing Stack and Queue, Generics, and Iterators and Comparators.. Exercises are prepared for testing in the Judge system. Problem explanations can be accessed after registration at this [LINK](https://judge.softuni.org/Contests/#!/List/ByCategory/182/CSharp-Advanced-Exercises).
 
 ### Contents:
-**I. C# OOP - Exercises**
+**I. C# Advanced - Exercises**
   1. [Stacks and Queues - Lab](https://github.com/yavor-gornalov/CSharp-Advanced/tree/main/S01_Stacks-Queues)
   2. [Stacks and Queues - Exercise](https://github.com/yavor-gornalov/CSharp-Advanced/tree/main/S02_Stacks-Queues-Ex)
   3. [Multidimensional Arrays - Lab](https://github.com/yavor-gornalov/CSharp-Advanced/tree/main/S03_Multi-Arrays)
